@@ -11,8 +11,8 @@ Este repositorio contiene scripts y datos para el análisis de sentimientos en T
 
 ## Scripts
 
-- `scrapping.py`: Script para Scrapping de Twitter mediante snscrape y almacenamiento temporal en un archivo CSV.
-- `conexion_mysql.py`: Script de conexión a MySQL para subir los datos del archivo CSV.
+- `GPT.py`: Script para Scrapping de Twitter mediante snscrape y almacenamiento temporal en un archivo CSV.
+- `Subir_tw_GPT.py`: Script de conexión a MySQL para subir los datos del archivo CSV.
 
 ## Datos
 
